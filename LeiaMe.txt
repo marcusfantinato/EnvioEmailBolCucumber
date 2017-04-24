@@ -1,0 +1,10 @@
+O Objetivo do projeto é acessar a conta de e-mail no site BOL e enviar um e-mail para a própria conta.
+
+O código foi desenvolvido em Java usando o Cucumber e o WebDriver.
+
+Qualquer dúvida estou à disposição para esclarecimentos.
+
+Att,
+Marcus Vinicius Fantinato
++ 55 11 96656-3999
+email:marcusfantinato@gmail.com
